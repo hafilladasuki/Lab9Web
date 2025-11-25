@@ -2,12 +2,14 @@
 
 # Langkah' Pratikum
 
+*Untuk code ada di atas dengan folder nama "Lab9_php_modular"
+
 # 1. Membuat Header, footer, home, about 
 <p>Hasilnya:</p>
 <img width="897" height="491" alt="pt1" src="https://github.com/user-attachments/assets/db1598b5-e542-4fdb-a1d3-80b38cfac3a8" />
 
 # TUGAS
-
+*Untuk code ada di atas dengan folder nama "projeck1"
 <img width="803" height="646" alt="Screenshot 2025-11-25 224349" src="https://github.com/user-attachments/assets/ac42dedb-a7a4-4f5e-a2fd-fae7e7a10efc" />
 
 <p>Strukturnya:</p>
